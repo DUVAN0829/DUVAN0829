@@ -4,8 +4,7 @@
 </p>
 
  
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-##
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
