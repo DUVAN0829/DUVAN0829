@@ -6,13 +6,8 @@
 	
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 	
-<!-- Estadísticas -->
 <p align="center">
-<a href="https://github.com/DUVAN0829">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DUVAN0829&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUVAN0829&layout=compact&theme=tokyonight" /> 
-</a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUVAN0829#version3"/>
+  </a>
 </p>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DUVAN0829&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DUVAN0829k's Github Stats">
