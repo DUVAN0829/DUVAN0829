@@ -23,14 +23,14 @@
   <tr>
     <td align="center">
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUVAN0829&theme=default"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUVAN0829&border_radius=4.4&fire=F05237&ring=F05237&currStreakLabel=F05237"/>
       </a>
     </td>
     <td align="center">
       <img
         height="195"
         alt="stats graph"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=graywhite"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=swift"
       />
     </td>
   </tr>
