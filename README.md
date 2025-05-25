@@ -3,7 +3,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Duván González</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Springboot+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=A8A4E0&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+developer;I'm+a+competitive+programmer;I'm+a+Springboot+developer" /></a>
 </p>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -18,11 +18,23 @@
 
 
 ## 🔥 My contribution streak 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUVAN0829#version1"/>
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUVAN0829&theme=buefy"/>
+      </a>
+    </td>
+    <td align="center">
+      <img
+        height="195"
+        alt="stats graph"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=buefy"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Development Kit
 
