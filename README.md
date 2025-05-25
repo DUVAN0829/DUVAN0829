@@ -10,6 +10,7 @@
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
 
+
 ## 🔥 My contribution streak 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
