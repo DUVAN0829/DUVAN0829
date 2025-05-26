@@ -3,7 +3,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Duván González</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=7F96FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+developer;I'm+a+competitive+programmer;I'm+a+Springboot+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=6874E8&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+developer;I'm+a+competitive+programmer;I'm+a+Springboot+developer" /></a>
 </p>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -54,8 +54,7 @@
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:duvancasgonz29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/portfolio-web?style=for-the-badge&logo=webtrees&logoColor=%23fff&color=%23174164&cacheSeconds=3600"></img></a>
 <br>
 </p>
