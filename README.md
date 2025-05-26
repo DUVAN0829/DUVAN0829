@@ -12,7 +12,7 @@
 * ⚙️ I automate workflows and CI/CD pipelines using **GitHub Actions**
 * 📚 Constantly learning and improving my skills in **Java**, **REST APIs**, and **microservices architecture**
 * 🗂️ I'm passionate about building scalable and maintainable backend systems
-* 🍀 You can see some of my projects on my portfolio (http:duvan.dev)
+* 🍀 You can see some of my projects on my portfolio (https://duvan0829.github.io/portfolio-personal/)
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
