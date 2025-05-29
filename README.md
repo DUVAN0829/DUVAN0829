@@ -36,7 +36,6 @@
 </table>
 
 ## 🚀 Development Kit
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,eclipse,git,github,githubactions,gitlab,gradle,graphql,idea,java,kubernetes,linux,maven,mongodb" />
