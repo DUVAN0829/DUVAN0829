@@ -39,13 +39,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,eclipse,git,github,githubactions,gitlab,gradle,angular,graphql,idea,java,kubernetes,linux,maven,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,eclipse,git,github,githubactions,gitlab,gradle,angular,graphql,idea,java,kubernetes,linux,maven" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,regex,spring,sqlite,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,regex,spring,sqlite,vscode,mongodb" />
   </a>
 </p>
 
