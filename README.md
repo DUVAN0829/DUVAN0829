@@ -25,6 +25,7 @@
         alt="stats graph"
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=swift"
       />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
     </td>
 </table>
 
