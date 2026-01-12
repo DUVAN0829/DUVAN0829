@@ -18,18 +18,19 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats
 <div align="center">
-  <div>
-    <img height="195"
-         alt="profile details"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUVAN0829&theme=material_palenight" />
-  </div>
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUVAN0829&theme=material_palenight"
+    height="195"
+    style="display:block; margin: 0 auto 24px auto;"
+  />
 
-  <div>
-    <img height="195"
-         alt="stats graph"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight" />
-  </div>
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight"
+    height="195"
+    style="display:block; margin: 0 auto;"
+  />
 </div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Development Kit
 
