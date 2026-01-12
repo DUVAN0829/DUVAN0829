@@ -3,7 +3,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Duván González</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=6874E8&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FullStack+developer;I'm+a+competitive+programmer;I'm+a+Springboot+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=6874E8&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+developer;I'm+a+competitive+programmer;I'm+a+Springboot+developer" /></a>
 </p>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
