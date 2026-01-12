@@ -17,9 +17,10 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats
+
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight" width="25" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUVAN0829&theme=material_palenight" width="25" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUVAN0829&theme=material_palenight" width="55%" />
 </p>
 
 
