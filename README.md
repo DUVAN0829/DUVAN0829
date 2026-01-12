@@ -22,13 +22,13 @@
   <tr>
     <td align="center">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUVAN0829&theme=material_palenight"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight"
         height="195"
       />
     </td>
     <td align="center">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUVAN0829&theme=material_palenight"
         height="195"
       />
     </td>
