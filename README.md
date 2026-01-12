@@ -18,7 +18,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My contribution streak
 
-<table align="center">
+<table align="center" border="none">
     <td align="center">
       <img
         height="195"
