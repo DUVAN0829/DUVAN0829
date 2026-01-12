@@ -18,12 +18,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats
 
-<table align="center" border="none">
+<table align="center">
     <td align="center">
       <img
         height="195"
         alt="stats graph"
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight"
+        style="boder: none;"
       />
     </td>
      <td align="center">
