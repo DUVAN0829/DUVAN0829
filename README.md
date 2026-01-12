@@ -25,8 +25,8 @@
         alt="stats graph"
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=swift"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
     </td>
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </table>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Development Kit
