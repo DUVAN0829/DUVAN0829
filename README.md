@@ -23,10 +23,16 @@
       <img
         height="195"
         alt="stats graph"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=swift"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUVAN0829&theme=material_palenight"
       />
     </td>
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=swift" alt="Badri's github stats" />
+     <td align="center">
+      <img
+        height="195"
+        alt="stats graph"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUVAN0829&theme=material_palenight"
+      />
+    </td>
 </table>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Development Kit
