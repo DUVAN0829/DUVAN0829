@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-## 🔥 My contribution streak
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My contribution streak
 
 <table align="center">
     <td align="center">
