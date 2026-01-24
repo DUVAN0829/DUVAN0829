@@ -7,7 +7,6 @@
 </p>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 * 💻 I'm a Backend Developer specializing in **Spring Boot**
 * ☁️ I work with cloud technologies, especially **AWS**
 * ⚙️ I automate workflows and CI/CD pipelines using **GitHub Actions**
